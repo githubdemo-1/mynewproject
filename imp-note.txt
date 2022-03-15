@@ -1,0 +1,84 @@
+
+
+1- AWS Services (VPC, IAM, EC2, Directory Service, S3, EFS, FSx, AWS Backup, AWS VPN, ECS, ECR, RDS, CloudFront, Route53, CodeBuild, CodeDeploy, CodePipeline,
+    AWS Autoscaling, CloudFormation, SystemsManager, CloudWatch, EMR, OpenSearch Service, Amazon Simple Email Service, WorkSpaces, Security Hub)
+
+2- Server operating systems – Windows (2003, 2012, 2016, 2019), Linux (Redhat, Ubuntu, Amazon Linux).
+
+3- Containerization technologies – (Docker, Docker Swarm, Kubernetes)
+
+4- Web hosting platforms (Windows IIS, Apache, NGINX, PHP)
+
+5- Load balancers (Reverse proxy / Forward proxy) – (NGINX, HAPROXY, AWS ELB)
+
+6- Infrastructure monitoring tools – (ZABBIX, NAGIOS)
+
+7- System scripting languages – (Batch, Powershell, Shell, AWS CLI)
+
+8- DevOps scripting languages and tools – (Jenkins, Hudson, MSBUILD, NANT, ANT, Maven)
+
+9- Misc tools or technologies – (Samba server and share, SOLR search, Linux SFTP, Subversion, GitHub)
+
+10- IaaS and PaaS implementations
+
+11- Knowledge of web concepts, infrastructure technologies and tools.
+
+12- Firewalls/Security Groups
+
+13- DNS Routing
+
+14- VM Configuration (EC2, AMIs, etc.)
+
+15- Security Administration (IAM, Azure AD, etc.)
+
+16- Auto-Scaling, Containerization, Application Load balancers, etc.
+
+17- Cost Management on Cloud infrastructure
+
+18- Serverless architectures in Azure, AWS or OCI
+
+19- Cloud storage management (EBS, EFS, S3, etc.)
+
+20- Infrastructure as code (Teraform/CloudFormation)
+
+21- Must GCP, Docker, Kubernetes other Cloud Certifications
+
+22- Knowledge of tools such as Ansible, Kubernetes Scripting skills such as PowerShell, JSON, YAML
+
+23- Good to have knowledge of TCP/IP, HTTP and DNS, routing, switching, firewalls
+
+24- Hands-on experience with any UNIX operating system flavor OR with Windows operating system
+
+25- Strong Knowledge with hands on experience in Linux based Dockers, Kubernetes, Docker networking, knowledge on network protocols and VPN.
+ 
+26- Build solution for business problems that work on premises as well as in public / private cloud.
+
+27- Knowledge on hosting the services in cloud environment with security conscious.
+
+28- Perform state-of-the-art product development activities, with an emphasis on the “quality attributes” (such as performance, reliability, availability, and security)
+
+29- Advanced knowledge of software design patterns and familiarity with enterprise application architectural styles (Broker, Serverless etc.,)
+
+30- Strong knowledge in database technologies, distributed cache management.
+
+31- Excellent Design and Programming skills on Server-side development using multi-threaded programming based on Java.
+
+32- Working knowledge of Source code control like TFS, GIT or similar CM tools
+
+33- Familiarity with PC-lint, Coverity and/or other code quality tools, performance analysis etc.,
+
+34- Good understanding of Deployment Pipelines, DevOps (Azure, Jenkins) and related tools
+
+35- Possessing certification as cloud certified architect by reputed authorities like Google, AWS, Azure is added advantage.
+
+36- DevOps/Deployment
+
+37-Orchestration Management
+
+38-Configuration Management
+
+39-Continuous Integration technology (e.g. Kubernetes, Docker, Jenkins, Ansible Chef, Puppet, or related tools)
+
+40-Advanced experience with System Administration with Linux (Ubuntu, CentOS, RedHat) and/or Microsoft Windows Server and associated technologies (Active Directory, Exchange)
+
+41-Advanced experience with Networking and troubleshooting (TCP/IP, DNS, routing, switching, firewalls, LAN/WAN, traceroute, iperf, dig, cURL or related)
